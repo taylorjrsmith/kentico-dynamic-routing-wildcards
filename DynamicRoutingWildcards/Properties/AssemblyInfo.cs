@@ -1,4 +1,4 @@
-﻿using System.Reflection;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using CMS;
@@ -6,12 +6,12 @@ using CMS;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AssemblyTitleHere")]
-[assembly: AssemblyDescription("AssemblyDescriptionHere")]
+[assembly: AssemblyTitle("Kentico MVC Dynamic Routing Wildcards")]
+[assembly: AssemblyDescription("Extends DynamicRouting.Kentico.MVC to support wildcards in urls which map to properties within Controller actions")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("AssemblyCompanyHere")]
-[assembly: AssemblyProduct("AssemblyProductHere")]
-[assembly: AssemblyCopyright("AssemblyCopyrightHere")]
+[assembly: AssemblyCompany("reallymoving")]
+[assembly: AssemblyProduct("dynamic-routing-wildcards")]
+[assembly: AssemblyCopyright("Copyright reallymoving 2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: AssemblyDiscoverable]
@@ -22,7 +22,7 @@ using CMS;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("60d45549-bb62-4999-8f29-987b58b33127")]
+[assembly: Guid("147c28b7-2ca1-4077-a97b-5b65d5ae91c4")]
 
 // Version information for an assembly consists of the following four values:
 //
@@ -33,5 +33,5 @@ using CMS;
 //
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("12.29.0.0")]
+[assembly: AssemblyFileVersion("12.29.0.0")]
